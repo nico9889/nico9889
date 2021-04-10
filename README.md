@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving my skill
+- 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning C++, Web Development, Hacking
 - 📫 How to reach me: TODO
 - ⚡ Fun fact: my jokes are boring
